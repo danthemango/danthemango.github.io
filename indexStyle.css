@@ -1,0 +1,47 @@
+html{
+}
+body{
+   padding:10px;
+   margin:10px;
+   width:800px;
+   height:100%;
+}
+h1,h2{
+   margin:0;
+   padding:0;
+}
+p{
+   margin:5px;
+}
+#top{
+   border: 1px solid black;
+   overflow:hidden;
+}
+#myTitles{
+   padding:10px;
+   width:600px;
+   float:left;
+}
+#bodyContainer{
+}
+#leftSec{
+   width:500px;
+   float:left;
+   border-right:1px solid black;
+}
+#rightSec{
+   width:300px;
+   float:left;
+   margin-left:-1px;
+}
+#rSIn{
+   padding:5px;
+}
+#myFace{
+   width:160px;
+   padding:5px;
+   float:right;
+}
+#workEd>li{
+   padding:10px;
+}
